@@ -1,2 +1,0 @@
-# StillLife
-StillLife
